@@ -1,0 +1,2 @@
+# seon
+the basic repository
